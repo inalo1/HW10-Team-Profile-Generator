@@ -3,16 +3,16 @@ const Employee = require ("./Employee.js")
 
 // code that defines the Engineer class; `Employee` class extension
 class Engineer extends Employee {
-    constructor (name, id, email, githubUsername) {
+    constructor (name, id, email, github) {
     // super refers to the extended class 
     super(name, id, email)
     // additional information exclusive to the Engineer class
-    this.githubUsername = githubUsername;
+    this.github = github;
     }
 
     // code exports the Engineer class
-    getGithubUsername() {
-        return this.githubUsername
+    getGithub() {
+        return this.github
     }
     getRole() {
         return "Engineer"

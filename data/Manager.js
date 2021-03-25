@@ -1,3 +1,4 @@
+
 const Employee = require ("./Employee.js")
 
 // code that defines the Manager class; `Employee` class extension
