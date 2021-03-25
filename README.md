@@ -15,10 +15,10 @@ A software engineering team generator command line app. The application will pro
 5) open HTML to view your team
 
 ## Quick Look:
-![Screenshot 2021-03-25 033406](https://user-images.githubusercontent.com/73044038/112443651-35bacc80-8d1b-11eb-9963-bd249874aa89.png)
+![Screenshot 2021-03-25 141227](https://user-images.githubusercontent.com/73044038/112530322-4fd4c900-8d74-11eb-9a13-4feb427a27a8.png)
 
-![Screenshot 2021-03-25 033441](https://user-images.githubusercontent.com/73044038/112443653-36536300-8d1b-11eb-8261-4b83afd8c911.png)
+![Screenshot 2021-03-25 141049](https://user-images.githubusercontent.com/73044038/112530330-5105f600-8d74-11eb-8705-cb9a76d1523d.png)
 
-![Screenshot 2021-03-25 033502](https://user-images.githubusercontent.com/73044038/112443656-36ebf980-8d1b-11eb-83fe-10154bb394ae.png)
+![Screenshot 2021-03-25 141141](https://user-images.githubusercontent.com/73044038/112530336-52372300-8d74-11eb-820d-822140310ed6.png)
 
-![Screenshot 2021-03-25 033526](https://user-images.githubusercontent.com/73044038/112443659-36ebf980-8d1b-11eb-8d86-f41e8247432a.png)
+![Screenshot 2021-03-25 141201](https://user-images.githubusercontent.com/73044038/112530339-53685000-8d74-11eb-9719-0047a114c6ac.png)
